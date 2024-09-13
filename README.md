@@ -18,6 +18,7 @@ Feel free to check out my work, connect with me, or explore some of the projects
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/-Hugging_Face-FFD300?logo=huggingface&logoColor=white&style=for-the-badge)
+![LLM](https://img.shields.io/badge/-LLM-008080?logo=language&logoColor=white&style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/-Transformers-FFD300?logo=transformers&logoColor=white&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
@@ -35,7 +36,6 @@ Feel free to check out my work, connect with me, or explore some of the projects
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white&style=for-the-badge)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge)
-![LLM](https://img.shields.io/badge/-LLM-008080?logo=language&logoColor=white&style=for-the-badge)
 
 ---
 
