@@ -17,7 +17,7 @@ Feel free to check out my work, connect with me, or explore some of the projects
 ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/-Hugging_Face-FFD300?logo=huggingface&logoColor=white&style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/-Hugging_Face-FFD300?logo=huggingface&logoColor=black&style=for-the-badge)
 ![LLM](https://img.shields.io/badge/-LLM-008080?logo=language&logoColor=white&style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/-Transformers-FFD300?logo=transformers&logoColor=white&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
