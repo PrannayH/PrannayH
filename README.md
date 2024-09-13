@@ -1,8 +1,8 @@
 # Hi there, I'm Prannay! 👋
 
-I'm a passionate developer with a keen interest in Data Analytics, AI/ML, Web Development, and Python. I love solving complex problems, tackling programming challenges, and working on data-driven projects. With a strong foundation in modern technologies, I aspire to make a lasting impact in the tech industry by delivering meaningful and impactful solutions.
+I'm a passionate developer with a keen interest in , AI/ML, Data Analytics, Web Development, and Python. I love solving puzzles and love taking on programming challenges. With a strong foundation in modern technologies, I aspire to make a lasting impact in the tech industry by delivering meaningful and impactful solutions.
 
-Feel free to check out my work, connect with me, or explore some of the projects I've been working on!
+Feel free to check out my work, connect with me, or explore some of the projects I've been working on! 😄
 
 ---
 
