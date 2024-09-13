@@ -39,13 +39,6 @@ Feel free to check out my work, connect with me, or explore some of the projects
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let's Connect
 
 - LinkedIn: [Prannay H](https://www.linkedin.com/in/PrannayH)
