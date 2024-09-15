@@ -6,7 +6,7 @@ Feel free to check out my work, connect with me, or explore some of the projects
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
@@ -39,7 +39,7 @@ Feel free to check out my work, connect with me, or explore some of the projects
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let's Connect
 
 - LinkedIn: [Prannay H](https://www.linkedin.com/in/PrannayH)
 - Email: prannayh88@gmail.com
